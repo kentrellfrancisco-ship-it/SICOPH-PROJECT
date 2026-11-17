@@ -1,2 +1,2 @@
 # SICOPH-PROJECT
-Este é o meu repositorio como membro da sicoph
+Sicoph é um grupo de estudantes para desenvolvimento de projectos 
